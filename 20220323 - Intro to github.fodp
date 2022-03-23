@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2022-03-23T08:47:49.227739755</meta:creation-date><dc:date>2022-03-23T09:49:02.022133008</dc:date><meta:editing-duration>PT8M19S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="63"/></office:meta>
+ <office:meta><meta:creation-date>2022-03-23T08:47:49.227739755</meta:creation-date><dc:date>2022-03-23T11:02:48.925405100</dc:date><meta:editing-duration>PT1H22M4S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="63"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-1588</config:config-item>
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">6</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">3</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-1588</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-1924</config:config-item>
      <config:config-item config:name="VisibleAreaLeft" config:type="int">-3319</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">32232</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">20999</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21649</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -998,6 +998,7 @@
  <office:body>
   <office:presentation>
    <draw:page draw:name="page1" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T32">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="12.19cm" svg:x="1.4cm" svg:y="0.628cm" presentation:class="subtitle">
      <draw:text-box>
       <text:p>Intro to Github and Github issues</text:p>
@@ -1197,13 +1198,13 @@
         <text:p text:style-name="P12"><text:span text:style-name="T6">What is it for?</text:span></text:p>
         <text:list>
          <text:list-header>
-          <text:p text:style-name="P13"><text:span text:style-name="T7">Git is software for </text:span><text:span text:style-name="T7">tracking changes in </text:span><text:span text:style-name="T7">any set of files, </text:span><text:span text:style-name="T7">usually used for </text:span><text:span text:style-name="T7">coordinating work </text:span><text:span text:style-name="T7">among programmers </text:span><text:span text:style-name="T7">collaboratively </text:span><text:span text:style-name="T7">developing source </text:span><text:span text:style-name="T7">code during software </text:span><text:span text:style-name="T7">development. - </text:span><text:span text:style-name="T8">Wikipedia</text:span></text:p>
+          <text:p text:style-name="P13"><text:span text:style-name="T7">Git is software for </text:span><text:span text:style-name="T7">tracking changes in </text:span><text:span text:style-name="T7">any set of files, usually </text:span><text:span text:style-name="T7">used for coordinating </text:span><text:span text:style-name="T7">work among </text:span><text:span text:style-name="T7">programmers </text:span><text:span text:style-name="T7">collaboratively </text:span><text:span text:style-name="T7">developing source </text:span><text:span text:style-name="T7">code during software </text:span><text:span text:style-name="T7">development. - </text:span><text:span text:style-name="T8">Wikipedia</text:span></text:p>
          </text:list-header>
         </text:list>
        </text:list-item>
        <text:list-item>
         <text:p text:style-name="P12">Sample commands</text:p>
-        <text:p text:style-name="P12"><text:span text:style-name="T9">git init</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git add </text:span><text:span text:style-name="T9">README.md</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git commit -m </text:span><text:span text:style-name="T9">“Add the </text:span><text:span text:style-name="T9">project’s </text:span><text:span text:style-name="T9">README.md file”</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git push</text:span></text:p>
+        <text:p text:style-name="P12"><text:span text:style-name="T9">git init</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git add </text:span><text:span text:style-name="T9">README.md</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git status</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git commit -m </text:span><text:span text:style-name="T9">“Add the </text:span><text:span text:style-name="T9">project’s </text:span><text:span text:style-name="T9">README.md file”</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git log</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git push</text:span><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T9">git pull</text:span></text:p>
         <text:p text:style-name="P12"><text:span text:style-name="T10"/></text:p>
         <text:p text:style-name="P12"><text:span text:style-name="T10">How to write commit messages: </text:span><text:span text:style-name="T10"><text:a xlink:href="https://cbea.ms/git-commit/" xlink:type="simple">https://cbea.ms/git-commit/</text:a></text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">Check the videos and docs at </text:span><text:span text:style-name="T10"><text:a xlink:href="https://git-scm.com/doc" xlink:type="simple">https://git-scm.com/doc</text:a></text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">Look at explanation about each </text:span><text:span text:style-name="T10">command: </text:span><text:span text:style-name="T10"><text:a xlink:href="https://git-scm.com/docs" xlink:type="simple">https://git-scm.com/docs</text:a></text:span></text:p>
        </text:list-item>
@@ -1328,7 +1329,10 @@
         <text:p text:style-name="P12"><text:span text:style-name="T6"><text:a xlink:href="https://sqlite.org/appfileformat.html" xlink:type="simple">File formats</text:a></text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P12"><text:span text:style-name="T6"><text:a xlink:href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" xlink:type="simple">Markdown syntax</text:a></text:span><text:span text:style-name="T6"><text:a xlink:href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" xlink:type="simple">Markdown sintax</text:a></text:span></text:p>
+        <text:p text:style-name="P12"><text:span text:style-name="T6"><text:a xlink:href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" xlink:type="simple">Markdown syntax</text:a></text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P12"><text:span text:style-name="T6"><text:a xlink:href="https://github.com/CSCfi/csc-user-guide/blob/master/FAQ.md" xlink:type="simple">CSC user guide FAQ</text:a></text:span></text:p>
         <text:p text:style-name="P12"><text:span text:style-name="T6"/></text:p>
         <text:p text:style-name="P12"><text:span text:style-name="T6"/></text:p>
         <text:p text:style-name="P12"><text:span text:style-name="T6"/></text:p>
@@ -1376,6 +1380,7 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page9" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL1T32">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="12.19cm" svg:x="1.4cm" svg:y="0.628cm" presentation:class="subtitle">
      <draw:text-box>
       <text:p>Thanks for you attention :)</text:p>
